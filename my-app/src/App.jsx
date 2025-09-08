@@ -7,6 +7,7 @@ import Thirdsection from './components/Third section/Thirdsection.jsx'
 import Fourthsection from './components/Fourth section/Fourthsection.jsx'
 import Fifthsection from './components/Fifth section/Fifthsection.jsx'
 import Sixthsection from './components/Sixth section/Sixthsection.jsx'
+import Youtubevideo from './components/Youtube video/Youtubevideo.jsx'
 function App() {
 
   return (
@@ -18,6 +19,7 @@ function App() {
      <Fourthsection/>
      <Fifthsection/>
      <Sixthsection/>
+     <Youtubevideo/>
     <Footer/>
     </>
   )
