@@ -15,7 +15,9 @@ body {
 	background: black; 
 	color: #fff;
 	font-weight: 200;
-	font-size: 0.75em;	
+	font-size: 0.75em;
+	position: fixed;	
+	width: 100%;
 }
 .header-wrapper ul {
 	display: flex;
