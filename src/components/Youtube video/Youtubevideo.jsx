@@ -6,42 +6,42 @@ const fallbackVideos = [
         id: { videoId: "f199EMluMG4" },
         snippet: {
             title: "Apple Event - May 7",
-            thumbnails: { medium: { url: "https://i.ytimg.com/vi/f199EMluMG4/mqdefault.jpg" } }
+            thumbnails: { medium: { url: "https://i.ytimg.com/vi/f199EMluMG4/hqdefault.jpg" } }
         }
     },
     {
         id: { videoId: "TX9qSaGXFyg" },
         snippet: {
             title: "Introducing Apple Vision Pro",
-            thumbnails: { medium: { url: "https://i.ytimg.com/vi/TX9qSaGXFyg/mqdefault.jpg" } }
+            thumbnails: { medium: { url: "https://i.ytimg.com/vi/TX9qSaGXFyg/hqdefault.jpg" } }
         }
     },
     {
         id: { videoId: "xqyUdNxWazA" },
         snippet: {
             title: "iPhone 15 Pro - Titanium",
-            thumbnails: { medium: { url: "https://i.ytimg.com/vi/xqyUdNxWazA/mqdefault.jpg" } }
+            thumbnails: { medium: { url: "https://i.ytimg.com/vi/xqyUdNxWazA/hqdefault.jpg" } }
         }
     },
     {
         id: { videoId: "jwmS1gcaqUU" },
         snippet: {
             title: "MacBook Air M3",
-            thumbnails: { medium: { url: "https://i.ytimg.com/vi/jwmS1gcaqUU/mqdefault.jpg" } }
+            thumbnails: { medium: { url: "https://i.ytimg.com/vi/jwmS1gcaqUU/hqdefault.jpg" } }
         }
     },
     {
         id: { videoId: "FjHIGqG0Z7k" },
         snippet: {
             title: "Apple Watch Series 9",
-            thumbnails: { medium: { url: "https://i.ytimg.com/vi/FjHIGqG0Z7k/mqdefault.jpg" } }
+            thumbnails: { medium: { url: "https://i.ytimg.com/vi/FjHIGqG0Z7k/hqdefault.jpg" } }
         }
     },
     {
         id: { videoId: "gQKmmFk6Rvk" },
         snippet: {
             title: "The new iPad Pro",
-            thumbnails: { medium: { url: "https://i.ytimg.com/vi/gQKmmFk6Rvk/mqdefault.jpg" } }
+            thumbnails: { medium: { url: "https://i.ytimg.com/vi/gQKmmFk6Rvk/hqdefault.jpg" } }
         }
     }
 ];
